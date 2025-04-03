@@ -42,8 +42,7 @@ python main.py
 - Click **Detect Deadlock** to check for cycles in the graph.
 - Click **Show Graph** to visualize the current allocation graph.
 
-## 🖥 Screenshots
-![Graphical User Interface](https://via.placeholder.com/500x300?text=GUI+Screenshot)
+
 
 ## 🛠 Technologies Used
 - **Python** (Core Language)
