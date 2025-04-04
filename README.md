@@ -20,7 +20,7 @@ This project is a **Graphical Simulator for Resource Allocation Graphs (RAGs)** 
 Graphical-RAG-Simulator/
 │-- main.py          # Main application script
 │-- README.md        # Project documentation
-│-- requirements.txt # List of dependencies (optional)
+│-- requirements.txt # List of dependencies 
 ```
 
 ## 🚀 Installation & Usage
