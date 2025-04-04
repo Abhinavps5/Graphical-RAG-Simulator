@@ -10,7 +10,7 @@ class RAGSimulator:
         
         self.graph = nx.DiGraph()
         
-        # UI Elements
+        # UI
         self.label_process = tk.Label(root, text="Process:")
         self.label_process.grid(row=0, column=0)
         
